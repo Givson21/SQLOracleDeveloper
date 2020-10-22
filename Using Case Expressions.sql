@@ -119,3 +119,5 @@ Example :
 DELETE FROM employees WHERE employee_id = 162;
 
 SELECT * FROM employees WHERE department_id = 80;
+
+SELECT * FROM employees WHERE salary >=5000;
